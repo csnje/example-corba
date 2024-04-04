@@ -1,10 +1,10 @@
 ## About
 
-Examples using [**Common Object Request Broker Architecture (CORBA)**](https://www.corba.org/).
+Example use of [**Common Object Request Broker Architecture (CORBA)**](https://www.corba.org/).
 
 ## Build
 
-### **Python** Build
+### **Java** Build
 
 The **Java** example uses [**Eclipse Glassfish ORB**](https://projects.eclipse.org/projects/ee4j.orb).
 
